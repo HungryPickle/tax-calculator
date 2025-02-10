@@ -26,3 +26,7 @@ label {
 #total {
     background-color: #eee;
 }
+#home {
+    display: block;
+    text-align: center;
+}
